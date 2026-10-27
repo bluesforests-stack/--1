@@ -1,0 +1,10 @@
+這是網頁程式小包，模型的五個 .bin 檔需要另外上傳。
+
+1. 解壓本 ZIP。
+2. 把 sensory-atlas-github 資料夾內的內容上傳至 GitHub 倉庫根目錄。確認 index.html 直接位於倉庫根目錄。
+3. 在 GitHub 倉庫點進 assets 資料夾，再選 Add file → Upload files。
+4. 將另外下載的五個 .bin 檔全部上傳到 assets 資料夾，保持原檔名。
+5. assets 內應有 model.json 和 5 個 .bin 檔。
+6. Settings → Pages → Deploy from a branch → main → /(root) → Save。
+
+ZIP 是下載與傳輸用的包裝；上傳至 GitHub 前需先解壓。
